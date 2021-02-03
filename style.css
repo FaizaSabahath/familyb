@@ -1,0 +1,8 @@
+img{
+    height: auto;
+    width: 700px;
+}
+body{
+    text-align: center;
+    background: linear-gradient(#072f5f 0%, #1261a0 30%,#3895d3 70%, #58cced 100%);
+}
